@@ -1,1 +1,2 @@
-Free magento 2 extension for Popup and AJAX based Login and Sign Up | Nadeem Khan
+# magento2-admin-security
+Free magento 2 extension to prevent admin user adding <script> tag in Admin | Nadeem Khan
